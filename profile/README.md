@@ -12,6 +12,8 @@ sold by The Martian Company for the HIP.
 
 [Read the press conference on X](
   https://x.com/truocolo/status/1800569607821959387)
+[Buy one](
+  https://www.paypal.com/ncp/payment/49L4HCVHW26V2)
 
 ## Software
 
