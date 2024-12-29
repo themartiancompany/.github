@@ -39,4 +39,6 @@ Distributed uncensorable file system running Ethereum Virtual Machine-compatible
 
 Uncensorable unstoppable distributed publishing platform preinstalled on DogeOS and distributed on the Ur.
 
-Yes we know this may be weird to read but what do you want to do about it? If you have doubts go ask Elon Musk.
+Yes we know this may be weird to read but what do you want to do about it?
+
+If you have doubts go ask Elon Musk, it's not he wil tell you all the truth anyway.
