@@ -30,3 +30,7 @@ Runs on mobile devices, on desktop and portable computers.
 ### [Ur](https://github.com/themartiancompany/ur)
 
 Uncensorable unstoppable user repository and application store software.
+
+### [Ethereum Virtual Machine File System](https://github.com/themartiancompany/evmfs)
+
+Distributed uncensorable file system running Ethereum Virtual Machine-compatible blockchain networks.
