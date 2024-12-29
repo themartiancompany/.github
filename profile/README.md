@@ -42,3 +42,5 @@ Uncensorable unstoppable distributed publishing platform preinstalled on DogeOS 
 Yes we know this may be weird to read but what do you want to do about it?
 
 If you have doubts go ask Elon Musk, but it's not he will tell you all the truth anyway.
+
+And by the way he can always lie after all, he's an human.
