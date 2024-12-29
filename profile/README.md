@@ -18,13 +18,13 @@ sold by The Martian Company for the HIP.
 
 ## Software
 
-### Life
+### Life / DogeOS
 
 A collection of software for which there is still no formal
 definition in literature.
 
 Runs on mobile devices, on desktop and portable computers.
 
-### Ur
+### [Ur](https://github.com/themartiancompany/ur)
 
 Uncensorable unstoppable user repository and application store software.
