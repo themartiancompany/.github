@@ -1,3 +1,5 @@
+The Martian Company is the group behind the Human Instrumentality Project.
+
 # Human Instrumentality Project (`hip`)
 
 The Human Instrumentality Project provides
