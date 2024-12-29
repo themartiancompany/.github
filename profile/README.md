@@ -45,4 +45,4 @@ If you have doubts go ask Elon Musk, but it's not he will tell you all the truth
 
 And by the way he can always lie, he's an human after all and he has no obligations to tell the truth to anybody.
 
-Also eventually it's not like he can do anything about it except bringing down this HTTPS page (but not the EVMFS one) and kill us.
+Also eventually it's not like he can do anything about it except bringing down this HTTPS page (but not the EVMFS one) or kill us.
