@@ -35,7 +35,7 @@ Uncensorable unstoppable user repository and application store software.
 
 Distributed uncensorable file system running Ethereum Virtual Machine-compatible blockchain networks.
 
-### Twitter (not the one previously known as X, the one which will probably be known previously as X)
+### Twitter (not the one previously known as X, the one which could probably be known previously as X)
 
 Uncensorable unstoppable distributed publishing platform preinstalled on DogeOS and distributed on the Ur.
 
