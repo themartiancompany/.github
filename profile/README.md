@@ -37,4 +37,5 @@ Distributed uncensorable file system running Ethereum Virtual Machine-compatible
 
 ### Twitter (not the one previously known as X, the one which will be known previously as X)
 
-Uncensorable unstoppable distributed publishing platform preinstalled on DogeOS and Ur. Yes we know this may be weird to read but what do you want to do about it? If you have doubts go ask Elon Musk.
+Uncensorable unstoppable distributed publishing platform preinstalled on DogeOS and distributed on the Ur.
+Yes we know this may be weird to read but what do you want to do about it? If you have doubts go ask Elon Musk.
