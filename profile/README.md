@@ -20,12 +20,18 @@ sold by The Martian Company for the HIP.
 
 ## Software
 
-### Life / DogeOS
+### Life and DogeOS
 
-A collection of software for which there is still no formal
-definition in literature.
+A uncensorable, undeletable, collection of software for
+which there is still no formal definition in literature.
+
+Some define it an app layer.
 
 Runs on mobile devices, on desktop and portable computers.
+
+Regular development livestreams are published on
+[X](https://x.com/truocolo) and on the uncensorable
+Twitter.
 
 ### [Ur](https://github.com/themartiancompany/ur)
 
