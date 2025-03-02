@@ -29,7 +29,7 @@ Some define it an app layer.
 
 Runs on mobile devices, on desktop and portable computers.
 
-### [DogeOS](DogeOS)
+### [DogeOS](https://github.com/themartiancompany/DogeOS)
 
 Extension (so actually a subset) of Life with a specific focus
 on attempting to tackle certain concrete real world plaguing issues.
@@ -38,7 +38,7 @@ Regular development livestreams are published on
 [X](https://x.com/truocolo) and on the uncensorable
 Twitter.
 
-### [Ur](ur)
+### [Ur](https://github.com/themartiancompany/ur)
 
 Uncensorable unstoppable user repository and application store software
 integral part of Life and DogeOS.
