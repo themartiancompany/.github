@@ -51,8 +51,9 @@ Ethereum Virtual Machine-compatible blockchain networks.
 
 ### Twitter (not the one *previously known as X*, the one which could probably be *known previously as X*)
 
-Uncensorable unstoppable distributed publishing platform
-preinstalled on DogeOS and distributed on the Ur.
+Uncensorable, undeletable, unstoppable, distributed,
+publishing platform pre-installed on DogeOS and
+distributed through the Ur.
 
 Yes we know this may be weird to read but what do you want to do about it?
 
