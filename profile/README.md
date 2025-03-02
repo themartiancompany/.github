@@ -29,7 +29,7 @@ Some define it an app layer.
 
 Runs on mobile devices, on desktop and portable computers.
 
-# DogeOS
+### DogeOS
 
 Extension (so actually a subset) of Life with a specific focus
 on attempting to tackle certain concrete real world plaguing issues.
