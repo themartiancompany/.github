@@ -40,8 +40,9 @@ Twitter.
 
 ### [Ur](https://github.com/themartiancompany/ur)
 
-Uncensorable unstoppable user repository and application store software
-integral part of Life and DogeOS.
+Uncensorable, undeletable, decentralized, distributed,
+unstoppable user repository and application store software,
+running on blockchain networks, integral part of Life and DogeOS.
 
 ### [Ethereum Virtual Machine File System](evmfs)
 
