@@ -41,21 +41,26 @@ Twitter.
 ### [Ur](https://github.com/themartiancompany/ur)
 
 Uncensorable, undeletable, decentralized, distributed,
-unstoppable user repository and application store software,
+unstoppable user repository and application store software
 running on blockchain networks, integral part of Life and DogeOS.
 
 ### [Ethereum Virtual Machine File System](evmfs)
 
-Distributed uncensorable file system running Ethereum Virtual Machine-compatible blockchain networks.
+Distributed uncensorable file system used by the Ur running on
+Ethereum Virtual Machine-compatible blockchain networks.
 
 ### Twitter (not the one *previously known as X*, the one which could probably be *known previously as X*)
 
-Uncensorable unstoppable distributed publishing platform preinstalled on DogeOS and distributed on the Ur.
+Uncensorable unstoppable distributed publishing platform
+preinstalled on DogeOS and distributed on the Ur.
 
 Yes we know this may be weird to read but what do you want to do about it?
 
-If you have doubts install the application or go ask Elon Musk, but it's not he will tell you all the truth anyway.
+If you have doubts install the application or go ask Elon Musk,
+but it's not he will tell you all the truth anyway.
 
-And by the way he can always lie, he's an human after all and he has no obligations to tell the truth to anybody.
+And by the way he can always lie, he's an human after all and
+he has no obligations to tell the truth to anybody.
 
-Also eventually it's not like he can do anything about it except bringing down this HTTPS page (but not the EVMFS one) or kill us.
+Also eventually it's not like he can do anything about it except
+bringing down this HTTPS page (but not the EVMFS one) or kill us.
