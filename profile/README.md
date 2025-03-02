@@ -29,7 +29,7 @@ Some define it an app layer.
 
 Runs on mobile devices, on desktop and portable computers.
 
-### DogeOS
+### [DogeOS](DogeOS)
 
 Extension (so actually a subset) of Life with a specific focus
 on attempting to tackle certain concrete real world plaguing issues.
@@ -38,11 +38,12 @@ Regular development livestreams are published on
 [X](https://x.com/truocolo) and on the uncensorable
 Twitter.
 
-### [Ur](https://github.com/themartiancompany/ur)
+### [Ur](ur)
 
-Uncensorable unstoppable user repository and application store software.
+Uncensorable unstoppable user repository and application store software
+integral part of Life and DogeOS.
 
-### [Ethereum Virtual Machine File System](https://github.com/themartiancompany/evmfs)
+### [Ethereum Virtual Machine File System](evmfs)
 
 Distributed uncensorable file system running Ethereum Virtual Machine-compatible blockchain networks.
 
