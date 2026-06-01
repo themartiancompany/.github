@@ -74,6 +74,15 @@ Uncensorable, undeletable, decentralized, distributed,
 unstoppable user repository and application store software
 running on blockchain networks, integral part of Life and DogeOS.
 
+<div
+   align="center">
+  <img
+     src="https://raw.githubusercontent.com/themartiancompany/evmfs-data/2fb357f70c07ab25ef5c74b6558d23e63f8a26e2/evmfs.png"
+     width="500"
+     align="center"
+  />
+</div>
+
 ### [Ethereum Virtual Machine File System](evmfs)
 
 Distributed uncensorable file system used by the Ur running on
