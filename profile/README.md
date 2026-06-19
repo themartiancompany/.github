@@ -2,6 +2,16 @@ The Martian Company is the group behind the
 [Human Instrumentality Project](
   https://www.humaninstrumentalityproject.org).
 
+
+<div
+   align="center">
+  <img
+     src="https://raw.githubusercontent.com/themartiancompany/.github/75b40c9fad994fd9e422fa52dd86afe65305aebf/profile/data/hip.svg"
+     width="500"
+     align="center"
+  />
+</div>
+
 # Human Instrumentality Project (`hip`)
 
 The Human Instrumentality Project provides
@@ -9,15 +19,6 @@ hardware and software for the betterment of
 humanity.
 
 ## Hardware
-
-<div
-   align="center">
-  <img
-     src="https://raw.githubusercontent.com/themartiancompany/dogeos-coding-style/cfbc2b6a31a80e651d66340de2237597f3b148fe/media/hip01.jpg"
-     width="500"
-     align="center"
-  />
-</div>
 
 ### HIP-01
 
@@ -41,47 +42,16 @@ Some define it an app layer.
 
 Runs on mobile devices, on desktop and portable computers.
 
-<div
-   align="center">
-  <img
-     src="https://raw.githubusercontent.com/themartiancompany/dogeos-data/b5e3d9a654d001020a242dcd6d252ca22391a3d7/dogeos.png"
-     width="500"
-     align="center"
-  />
-</div>
-
 ### [DogeOS](https://github.com/themartiancompany/DogeOS)
 
 Extension (so actually a subset) of Life with a specific focus
 on attempting to tackle certain concrete real world plaguing issues.
-
-Regular development livestreams are published on
-[X](https://x.com/truocolo) and on the uncensorable
-Twitter.
-
-<div
-   align="center">
-  <img
-     src="https://raw.githubusercontent.com/themartiancompany/ur-data/a115cf44cc5e4441a34f46a51ace090809572afd/ur.png"
-     width="500"
-     align="center"
-  />
-</div>
 
 ### [Ur](https://github.com/themartiancompany/ur)
 
 Uncensorable, undeletable, decentralized, distributed,
 unstoppable user repository and application store software
 running on blockchain networks, integral part of Life and DogeOS.
-
-<div
-   align="center">
-  <img
-     src="https://raw.githubusercontent.com/themartiancompany/evmfs-data/2fb357f70c07ab25ef5c74b6558d23e63f8a26e2/evmfs.png"
-     width="500"
-     align="center"
-  />
-</div>
 
 ### [Ethereum Virtual Machine File System](https://github.com/themartiancompany/evmfs)
 
