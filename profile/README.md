@@ -25,6 +25,12 @@
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
 
+<head>
+  <meta
+     http-equiv="Content-Security-Policy"
+     content="default-src 'self'; script-src 'self' 'unsafe-inline' https://raw.githubusercontent.com; style-src 'self' 'unsafe-inline'; frame-src https://www.github.com;">
+</head>
+
 The Martian Company is the group behind the
 [Human Instrumentality Project](
   http://www.humaninstrumentalityproject.org).
