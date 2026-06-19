@@ -24,13 +24,26 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# The Martian Company Github profile repository.
+# The Martian Company Github profile repository
 
-The content of this repository is what you see at
+The Martian Company is the group behind the
+[Human Instrumentality Project](
+  https://www.humaninstrumentalityproject.org).
+
+<div
+   align="center">
+  <img
+     src="https://raw.githubusercontent.com/themartiancompany/.github/861e27a8b57f381c8ea0e657aaa3f295efd7062f/profile/data/hips.svg"
+     width="500"
+     align="center"
+  />
+</div>
+
+This repository is what you see displayed on
 The Martian Company's
 [Github profile page](
   https://github.com/themartiancompany).
 
-The content of this repository is released by
+It is released by
 Pellegrino Prevete under the terms of the GNU Affero
 General Public License version 3.
