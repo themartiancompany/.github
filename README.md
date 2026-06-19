@@ -24,7 +24,7 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# The Martian Company Github profile repository
+# The Martian Company Github's profile repository
 
 The Martian Company is the group behind the
 [Human Instrumentality Project](
@@ -38,6 +38,7 @@ The Martian Company is the group behind the
      align="center"
   />
 </div>
+
 
 This repository is what you see displayed on
 The Martian Company's
