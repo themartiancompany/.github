@@ -28,7 +28,7 @@
 
 The Martian Company is the group behind the
 [Human Instrumentality Project](
-  https://www.humaninstrumentalityproject.org).
+  http://www.humaninstrumentalityproject.org).
 
 <div
    align="center">
