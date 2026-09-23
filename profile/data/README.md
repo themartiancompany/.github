@@ -1,0 +1,117 @@
+[comment]: <> (SPDX-License-Identifier: AGPL-3.0)
+
+[comment]: <> (----------------------------------------------------)
+[comment]: <> (Copyright © 2024, 2025, 2026)
+[comment]: <> (            Pellegrino Prevete)
+[comment]: <> (All rights reserved)
+[comment]: <> (----------------------------------------------------)
+
+[comment]: <> (This program is free software: you can redistribute)
+[comment]: <> (it and/or modify it under the terms of the)
+[comment]: <> (GNU Affero General Public License as published)
+[comment]: <> (by the Free Software Foundation, either version)
+[comment]: <> (3 of the License.)
+
+[comment]: <> (This program is distributed in the hope that it)
+[comment]: <> (will be useful, but WITHOUT ANY WARRANTY;)
+[comment]: <> (without even the implied warranty of)
+[comment]: <> (MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.)
+[comment]: <> (See the GNU Affero General Public License)
+[comment]: <> (for more details.)
+
+[comment]: <> (You should have received a copy of the)
+[comment]: <> (GNU Affero General Public License)
+[comment]: <> (with this program.)
+[comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
+
+# The Martian Company Github's profile repository data directory
+
+In this directory we keep resources which have been shown on
+[The Martian Company's Github profile](
+  https://github.com/themartiancompany).
+
+Here it follows a description of the files in this directory.
+
+### hip.svg
+
+<div
+   align="center">
+  <img
+     src="https://raw.githubusercontent.com/themartiancompany/.github/861e27a8b57f381c8ea0e657aaa3f295efd7062f/profile/data/hip.svg"
+     width="500"
+     align="center"
+     href="https://camo.githubusercontent.com/ec4d92e757975e4d2780045fc235fd51eb106474b8ba3072d9cec11f7b1efde7/687474703a2f2f7765622e617263686976652e6f72672f7765622f3230323630393233313835333030696d5f2f68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7468656d61727469616e636f6d70616e792f2e6769746875622f626233373363326433386337333333343937313236633839646365643261346536623136626238632f70726f66696c652f646174612f686970702e737667"
+  />
+</div>
+
+A very large scalalable vector graphics (SVG) file used as a profile cover,
+weighting 13 megabytes, including picture tiles of the HIP-01 and of
+[DogeOS](
+  https://github.com/themartiancompany/dogeos),
+[Ur](
+  https://github.com/themartiancompany/ur),
+[Ethereum Virtual Machine File System](
+  https://github.com/themartiancompany/evmfs)
+logos.
+
+### hip.xcf
+
+The GIMP image file used to generate the
+`hip.svg` SVG file; can't be displayed
+in a web browser, also weights 25 megabytes.
+
+### hips.svg
+
+A smaller version of `hip.svg`; this picture
+is the one effectively rendered on the profile.
+
+<div
+   align="center">
+  <img
+     src="https://raw.githubusercontent.com/themartiancompany/.github/861e27a8b57f381c8ea0e657aaa3f295efd7062f/profile/data/hips.svg"
+     width="500"
+     align="center"
+     href="https://camo.githubusercontent.com/ccad221061b3169fa478d936d635cc6e01681abc2abb10244a6bf5a97a2b4103/687474703a2f2f7765622e617263686976652e6f72672f7765622f3230323630393233313931383231696d5f2f68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7468656d61727469616e636f6d70616e792f2e6769746875622f626233373363326433386337333333343937313236633839646365643261346536623136626238632f70726f66696c652f646174612f686970732e737667"
+  />
+</div>
+
+### hipp.svg
+
+Large version of the current displayed cover, featuring also the
+[Git* User Repository](
+  https://github.com/themartiancompany/gur)
+and the
+[Ethereum Virtual Machine library](
+  https://github.com/themartiancompany/libevm)
+logos cover tiles. 
+
+<div
+  align="center">
+  <img
+    src="https://raw.githubusercontent.com/themartiancompany/.github/861e27a8b57f381c8ea0e657aaa3f295efd7062f/profile/data/hipp.svg"
+    width="500"
+    align="center"
+    href="https://camo.githubusercontent.com/057c9b3ea61226febf0d20ba83232d087e7d95f94e07010cf5a81844eb34615a/687474703a2f2f7765622e617263686976652e6f72672f7765622f3230323630393233313931383232696d5f2f68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7468656d61727469616e636f6d70616e792f2e6769746875622f626233373363326433386337333333343937313236633839646365643261346536623136626238632f70726f66696c652f646174612f6869702e737667"
+  />
+</div>
+
+### hipps.svg
+
+<div
+   align="center">
+  <img
+    src="https://raw.githubusercontent.com/themartiancompany/.github/861e27a8b57f381c8ea0e657aaa3f295efd7062f/profile/data/hipps.svg"
+    href="https://camo.githubusercontent.com/9a42a041cc30904240be9ca670d050619aebc1ac9d10804c6cb418629a376d1a/687474703a2f2f7765622e617263686976652e6f72672f7765622f3230323630393233313732303332696d5f2f68747470733a2f2f707269766174652d757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f3133353636353531362f3635373430323033302d30383838643231632d356461652d346161322d623732342d6131623237396430326438322e7376673f6a77743d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7063334d694f694a6e6158526f6457497559323974496977695958566b496a6f69636d46334c6d647064476831596e567a5a584a6a623235305a5735304c6d4e7662534973496d746c65534936496d746c655455694c434a6c654841694f6a45334f5441784f44517a4d7a4973496d35695a6949364d5463354d4445344e44417a4d6977696347463061434936496938784d7a55324e6a55314d5459764e6a55334e4441794d444d774c5441344f44686b4d6a466a4c54566b595755744e4746684d6931694e7a49304c574578596a49334f5751774d6d51344d69357a646d635f5743314262586f745157786e62334a706447687450554658557a51745345314251793154534545794e54596d5743314262586f7451334a6c5a47567564476c686244314253306c42566b4e5052466c4d553045314d314252537a526151535579526a49774d6a59774f54497a4a544a4764584d745a57467a644330784a544a47637a4d6c4d6b5a6864334d3058334a6c6358566c6333516d5743314262586f74524746305a5430794d4449324d446b794d3151784e7a49774d7a4a614a6c6774515731364c55563463476c795a584d394d7a41774a6c6774515731364c564e705a323568644856795a5430354d6d5a6c4d4468694f446c684e4759795a6a4577593252695a5459324d3249354d545135596d566a4e7a417a4e7a6b334d54686b4d444d774e6a55314e54673559324d7a4d444177596a526d4d574577596a49334a6c6774515731364c564e705a32356c5a45686c5957526c636e4d396147397a64435a795a584e776232357a5a53316a623235305a5735304c58523563475539615731685a32556c4d6b5a7a646d636c4d6b4a346257776966512e4537685454314a46704f4e75304f5551304f426c515a376e665a34474455664b4b736a3062376265323567"
+    width="500"
+    align="center"
+  />
+</div>
+
+This repository is what you see displayed on
+The Martian Company's
+[Github profile page](
+  https://github.com/themartiancompany).
+
+It is released by
+Pellegrino Prevete under the terms of the GNU Affero
+General Public License version 3.
