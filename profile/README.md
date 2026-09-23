@@ -38,7 +38,7 @@ The Martian Company is the group behind the
 <div
    align="center">
   <img
-     src="https://raw.githubusercontent.com/themartiancompany/.github/861e27a8b57f381c8ea0e657aaa3f295efd7062f/profile/data/hips.svg"
+     src="https://raw.githubusercontent.com/themartiancompany/.github/0ae21e7c2fc62b7d0fbc998ae92b1811f32b03e3/profile/data/hipps.svg"
      width="500"
      align="center"
   />
