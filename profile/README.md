@@ -91,7 +91,7 @@ running on blockchain networks, integral part of Life and DogeOS.
 Distributed uncensorable file system used by the Ur running on
 Ethereum Virtual Machine-compatible blockchain networks.
 
-### Twitter <sub>(not the one *previously known as X*, the one which could probably be *known previously as X*)</sub>
+### [Twitter](https://github.com/themartiancompany/twitter)
 
 Uncensorable, undeletable, unstoppable, distributed,
 publishing platform pre-installed on DogeOS and
